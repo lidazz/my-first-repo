@@ -1,0 +1,29 @@
+commit 86517261ecbb26307d1188b89841a8013136d5eb
+Author: lidazz <lzacharopoulou@globalwebindex.com>
+Date:   Thu Oct 22 21:15:35 2020 +0300
+
+    Update gitignore
+
+commit 78cbb3c15bb4c766bbb67d441cfcbf594d18ea60
+Author: lidazz <lzacharopoulou@globalwebindex.com>
+Date:   Thu Oct 22 16:18:01 2020 +0300
+
+    Added gitignore
+
+commit 5f72da0012158d30e50baaa6259454b329dff338
+Author: lidazz <lzacharopoulou@globalwebindex.com>
+Date:   Thu Oct 22 16:07:57 2020 +0300
+
+    Add files 3 and 4
+
+commit c943a1b705c66e20b383672eab230eeba2e4529e
+Author: lidazz <lzacharopoulou@globalwebindex.com>
+Date:   Thu Oct 22 16:05:03 2020 +0300
+
+    Added two files
+
+commit 7d2a2af7b402efbacee211acdb7638edf705ebd5
+Author: lidazz <lzacharopoulou@globalwebindex.com>
+Date:   Thu Oct 22 15:59:11 2020 +0300
+
+    Added readme.txt
