@@ -2,7 +2,7 @@
 
 ### Geography
 
-I grew up in the city center of Athens, Greece. I moved to Geneva and Barcelona for work and studies and now I am back in Athens.
+I grew up in the city center of Athens, Greece. I moved to Geneva and Barcelona for work and studies and now I am back to where it all started.
 
 ### Reading
 
@@ -24,19 +24,18 @@ Things I am likely to order when eating out:
 
 The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/lidazacharopoulou/)
 
-### Bonus material
+### On coding and life
+
+Here is how I made this README file, or anything else.
 
 ![Here is how I made this README file, or anything else. ](https://miro.medium.com/max/1200/1*gCWUibmQ8rszKxI3G19KmA.jpeg)
 
-
-#### Code examples
-
-Here is `some code` in the middle of a sentence.
+Here is some  `code`  but sometimes life asks for more:
 
 ```
-This is
-a block
-of code
+Code
+Block
+Party
 ```
 
 
