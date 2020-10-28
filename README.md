@@ -22,7 +22,7 @@ Things I am likely to order when eating out:
 
 ### Contact
 
-The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/lidazacharopoulou/)
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/lidazacharopoulou/) or my **actual**  [github page](https://github.com/leedah).
 
 ### On coding and life
 
